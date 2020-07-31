@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my personal Github Page that I use when I want to code.
+This is more like a side hobby, I'm not an expert in a language, 
+but I know enough to create a basic/simple script.
+
+Stick around, and maybe I'll post something soon!
+
 <!--
 **Speedy905/speedy905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
