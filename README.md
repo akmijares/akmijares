@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is my personal Github Page that I use when I want to code.
-This is more like a side hobby, I'm not an expert in a language, 
+This is more like a side hobby, I'm not an expert in a language, I know Python, Bash, and Powershell, 
 but I know enough to create a basic/simple script.
 
 Stick around, and maybe I'll post something soon!
