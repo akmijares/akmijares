@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-This is my personal Github Page that I use when I want to code.
-This is more like a side hobby, I'm not an expert in a language, I know Python, Bash, and Powershell, 
-but I know enough to create a basic/simple script.
+Welcome to my Github Page!
+I work as a Junior System Administrator, and coding is usually a side hobby of mine.
+
+Languages:
+- Bash
+- PowerShell
+- Python
 
 Stick around, and maybe I'll post something soon!
 
